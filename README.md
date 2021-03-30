@@ -98,7 +98,6 @@ def disturberror(outputs, values):
 3) Air Quality(AQ): 9357 instances, 10 features
 4) make_regression(MR): 5000 instances, 30 features (random sample for regression)
 5) Housing Price - Kaggle(HP): 1460 instances, 81 features
-+ new datasets:
 6) Student Performance (SP): 649 instances, 13 features (20 - categorical were dropped)
 7) Superconductivity Dataset (SD): 21263 instances, 81 features
 8) Communities & Crime (CC): 1994 instances, 100 features
