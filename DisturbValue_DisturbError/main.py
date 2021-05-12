@@ -77,8 +77,6 @@ class Dropout_model(nn.Module):
         self.fc1 = nn.Linear(n_features, n_features, bias=True)
         self.fc2 = nn.Linear(n_features, 5, bias=True)
         self.fc3 = nn.Linear(5, 1, bias=True)
-        self.dropout = nn.Dropout2d(0.5)
-
         self.dropout = nn.Dropout(drop_rate)
 
     def forward(self, x):
