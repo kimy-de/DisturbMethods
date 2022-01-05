@@ -1,5 +1,5 @@
 # Disturbing Target Values for Neural Network regularization: attacking the loss layer to prevent overfitting
-#### Yongho Kim, Hanna Lukashonak, Paweena Tarepakdee, Klavdiia Zavalich, and Mofassir ul Islam Arif (2021) [Disturbing Target Values for Neural Network Regularization](https://arxiv.org/pdf/2110.05003.pdf)
+#### Yongho Kim, Hanna Lukashonak, Paweena Tarepakdee, Klavdiia Zavalich, and Mofassir ul Islam Arif (2021) [Disturbing Target Values for Neural Network Regularization](https://arxiv.org/pdf/2110.05003.pdf), arXiv:2110.05003
 ## 1. Classification Task
 PyTorch implementation of [DisturbLabel: Regularizing CNN on the Loss Layer](https://arxiv.org/abs/1605.00055) [CVPR 2016] extended with Directional DisturbLabel method.
 
